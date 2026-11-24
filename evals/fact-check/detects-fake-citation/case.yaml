@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: detects-fake-citation
+expected_outcome: |
+  Determines the citation cannot be verified (DOI does not resolve, no such paper found) and says it is likely fabricated or wrong, without inventing a replacement.

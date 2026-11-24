@@ -1,0 +1,25 @@
+{
+  "name": "verisource",
+  "version": "0.2.0",
+  "description": "Anti-hallucination fact-checking: verifies claims against credible sources, labels each one verified/disputed/contradicted/unverified, and writes proper APA, MLA, Chicago, Harvard or IEEE citations.",
+  "author": {
+    "name": "allanbest",
+    "url": "https://github.com/allanbest"
+  },
+  "homepage": "https://github.com/allanbest/verisource",
+  "repository": "https://github.com/allanbest/verisource",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Verisource",
+    "shortDescription": "Fact-check claims and cite credible sources",
+    "developerName": "allanbest",
+    "category": "Productivity",
+    "brandColor": "#1F6F5C",
+    "defaultPrompt": [
+      "Fact-check this paragraph for me"
+    ],
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg"
+  }
+}

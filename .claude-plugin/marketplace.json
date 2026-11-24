@@ -1,0 +1,17 @@
+{
+  "name": "verisource",
+  "description": "Verisource: fact-checking and citation plugin.",
+  "owner": {
+    "name": "allanbest",
+    "url": "https://github.com/allanbest"
+  },
+  "plugins": [
+    {
+      "name": "verisource",
+      "source": "./",
+      "description": "Anti-hallucination fact-checking: verifies claims against credible sources, labels each one verified/disputed/contradicted/unverified, and writes proper APA, MLA, Chicago, Harvard or IEEE citations.",
+      "version": "0.2.0",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "verisource",
+  "description": "Anti-hallucination fact-checking: verifies claims against credible sources, labels each one verified/disputed/contradicted/unverified, and writes proper APA, MLA, Chicago, Harvard or IEEE citations.",
+  "version": "0.2.0",
+  "author": {
+    "name": "allanbest",
+    "url": "https://github.com/allanbest"
+  },
+  "homepage": "https://github.com/allanbest/verisource",
+  "repository": "https://github.com/allanbest/verisource",
+  "license": "MIT",
+  "keywords": [
+    "fact-check",
+    "hallucination",
+    "sources",
+    "citations",
+    "research"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "verisource",
+  "version": "0.2.0",
+  "description": "Anti-hallucination fact-checking: verifies claims against credible sources, labels each one verified/disputed/contradicted/unverified, and writes proper APA, MLA, Chicago, Harvard or IEEE citations."
+}

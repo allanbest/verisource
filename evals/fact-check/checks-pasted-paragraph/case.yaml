@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: checks-pasted-paragraph
+expected_outcome: |
+  Flags the visible-from-space myth and the Einstein-failed-math myth as false, corrects the Ming-only/1450 and length claims with nuance, and cites credible sources with links.

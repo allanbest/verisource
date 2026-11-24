@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: finds-citable-statistic
+expected_outcome: |
+  Gives a specific annual figure attributed to a named credible source (peer-reviewed study or international/government body) with a real, working link, and notes that estimates vary.
